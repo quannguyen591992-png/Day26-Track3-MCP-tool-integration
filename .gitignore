@@ -1,0 +1,25 @@
+# Environments
+venv/
+env/
+.env
+.venv/
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.deepeval/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
